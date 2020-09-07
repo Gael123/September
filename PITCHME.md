@@ -87,7 +87,6 @@ Culture Amp, providers of Company Culture Analytics
 
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
-
 @snap[east span-100 text-center]
 ##  **Community Sponsor**
 @snapend
@@ -102,7 +101,6 @@ Note:
 Twilio provide the building blocks to add messaging, voice, and video to your web and mobile applications.
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
-
 @snap[east span-100 text-center]
 ##  **Community Sponsor**
 @snapend
@@ -228,7 +226,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 Note:
 Hi everyone! Rails 5.2.4.3 and 6.0.3.1 have been released! These releases contain important security fixes, so please upgrade when you can.
 
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  **TIPS and TRICKS**
 #####  _Stuff that makes your life_
