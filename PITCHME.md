@@ -38,13 +38,13 @@ If this is your first RORO, or if you were previously unaware, Ruby Australia ev
 This is the link where you can find it and have a read, but in summary we want this meetup to provide a friendly and welcoming environment for everyone who attends, and harassment of any kind is not tolerated.<br />
 If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are Paul and Rob, or you can go straight to a Ruby Australia committee member if you don't think you can reach out to a RORO organiser.<br />
 
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[east span-100 text-center]
 ##  **Thanks to our Sponsors**
 @snapend
 
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
-?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+
 @snap[south span-100]
 ## Community Sponsor
 ![IMAGE](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
@@ -71,9 +71,7 @@ That food budget is covered by Ruby Australia, and hence their sponsors are our 
 Note:
 Envato: Leading marketplace for creative assets and creative people. Using Ruby: Always Hiring.
 
-
-
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 ?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[east span-100 text-center]
 ##  **Thanks to our Sponsors**
 @snapend
@@ -88,15 +86,14 @@ Note:
 Culture Amp, providers of Company Culture Analytics
 
 
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 ?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
-
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 @snap[east span-100 text-center]
 ##  **Community Sponsor**
 @snapend
 
 @snap[south span-100]
-![IMAGE]((https://www.dropbox.com/s/vybiy3ws0n44a5a/twilio-logo.png?dl=1)
+![IMAGE](https://www.dropbox.com/s/vybiy3ws0n44a5a/twilio-logo.png?dl=1)
 @snapend
 
 
@@ -104,15 +101,14 @@ Culture Amp, providers of Company Culture Analytics
 Note:
 Twilio provide the building blocks to add messaging, voice, and video to your web and mobile applications.
 
-
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 ?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 @snap[east span-100 text-center]
 ##  **Community Sponsor**
 @snapend
 
 @snap[south span-100]
-![IMAGE]((https://www.dropbox.com/s/231zrwix0mjhl1f/up-logo.gif?dl=1)
+![IMAGE](https://www.dropbox.com/s/231zrwix0mjhl1f/up-logo.gif?dl=1)
 @snapend
 
 
@@ -134,7 +130,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 
 
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 ?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[north-west span-100]
 ![IMAGE](https://avatars3.githubusercontent.com/u/486803?s=460&u=fa78acd59228fffb2a2d70c79770ea806cbcb9a6&v=4)
 @snapend
@@ -164,14 +160,12 @@ Up is a digital bank designed to help you organise your money and simplify your 
 @snapend
 
 
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
-
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 #  **Who's New?**
 ### **_Say Hello! in the Chat**
 
 
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
-
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 #  **Next Meetup's Exercism**
 ####  **Binary Search Tree**
 #####  **_`exercism download --exercise=binary-search-tree --track=ruby`**
@@ -183,7 +177,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 
 
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  SPEAKERS
 #### We are always on the lookout
@@ -208,7 +202,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 @snapend
 
 
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  **NEWS**
 
@@ -260,19 +254,19 @@ Note:
 Note:
 Offering: say your name, your company name, a sentence on what you do. And a sentence on who you're looking for - juniors, mids, seniors etc
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  **Slack/Forum**
 ## - `ruby-au-join.herokuapp.com`
 ## **- `forum.ruby.org.au`**
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 ### **Twitter:** `@rorosyd`, `@rubyaustralia`
 ### **Web:** `ruby.org.au`
 ### **Google group:** `rails-oceania`
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 # **Next Meetup**
 ## **13th October, 2020**
@@ -286,7 +280,7 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 Note:
 The next meetup will be the 8th of July.
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 ###  **Pub** :beer:
 ###   **Gelato** :ice_cream:
 
