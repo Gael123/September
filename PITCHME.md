@@ -1,4 +1,4 @@
----?color=linear-gradient(-15deg, 20%, #002b36 60%)
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 # Ruby on Rails
 ##  **_Oceania_**
@@ -7,7 +7,7 @@
 Note:
 Welcome to the ROROSyd September edition I hope everyone had a great holiday season and is ready for another year of exploring all that Ruby and the greater world of software has to offer.
 
-------?color=linear-gradient(-15deg, 20%, #002b36 60%)
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[west span-45 text-center]
 ###  **Tonight**
 @snapend
