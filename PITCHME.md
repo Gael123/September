@@ -56,8 +56,9 @@ Ruby Australia, who organise sponsorship of all Ruby-related meet-ups around Aus
 That food budget is covered by Ruby Australia, and hence their sponsors are our sponsors, so we would like to thank...
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+
 @snap[east span-100 text-center]
-##  **Community Sponsor**
+##  Community Sponsor
 @snapend
 
 @snap[south span-100]
@@ -71,8 +72,9 @@ Note:
 Envato: Leading marketplace for creative assets and creative people. Using Ruby: Always Hiring.
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+
 @snap[east span-100 text-center]
-##  **Thanks to our Sponsors**
+##  Thanks to our Sponsors
 @snapend
 
 @snap[south span-100]
@@ -88,7 +90,7 @@ Culture Amp, providers of Company Culture Analytics
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 @snap[east span-100 text-center]
-##  **Community Sponsor**
+##  Community Sponsor
 @snapend
 
 @snap[south span-100]
@@ -103,7 +105,7 @@ Twilio provide the building blocks to add messaging, voice, and video to your we
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 @snap[east span-100 text-center]
-##  **Community Sponsor**
+##  Community Sponsor
 @snapend
 
 @snap[south span-100]
@@ -115,7 +117,7 @@ Twilio provide the building blocks to add messaging, voice, and video to your we
 Note:
 Up is a digital bank designed to help you organise your money and simplify your life
 
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 ?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 
 
@@ -147,7 +149,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 
 @snap[west span-55]
-<!-- ![IMAGE](https://user-images.githubusercontent.com/29884993/83713685-25424400-a66c-11ea-9751-50e908206783.png) -->
+![IMAGE](https://avatars0.githubusercontent.com/u/1100707?s=400&v=4)
 @snapend
 
 
@@ -155,7 +157,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 ###### **Exercism Challenge**: Kindergarten Garden
 
-  <!-- @r0ss26 -->
+  @matpushbuttons
 @snapend
 
 
