@@ -9,7 +9,7 @@ Welcome to the ROROSyd September edition I hope everyone had a great holiday sea
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[west span-45 text-center]
-###  **Tonight**
+## **Tonight**
 @snapend
 
 
@@ -26,7 +26,7 @@ Note:
 Again tonight we have a great lineup of speakers, we'll cover some upcoming events, tips, tricks and jobs opportunities.<br />
 Then it's off to the pub or gelato.
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  Code Of Conduct
 ##  **`ruby.org.au/code-of-conduct`**
@@ -38,13 +38,13 @@ If this is your first RORO, or if you were previously unaware, Ruby Australia ev
 This is the link where you can find it and have a read, but in summary we want this meetup to provide a friendly and welcoming environment for everyone who attends, and harassment of any kind is not tolerated.<br />
 If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are Paul and Rob, or you can go straight to a Ruby Australia committee member if you don't think you can reach out to a RORO organiser.<br />
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[east span-100 text-center]
 ##  **Thanks to our Sponsors**
 @snapend
 
----
-
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[south span-100]
 ## Community Sponsor
 ![IMAGE](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
@@ -55,7 +55,7 @@ Note:
 Ruby Australia, who organise sponsorship of all Ruby-related meet-ups around Australia make the delicious non-pizza dinner possible.<br />
 That food budget is covered by Ruby Australia, and hence their sponsors are our sponsors, so we would like to thank...
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[east span-100 text-center]
 ##  **Community Sponsor**
 @snapend
@@ -73,7 +73,7 @@ Envato: Leading marketplace for creative assets and creative people. Using Ruby:
 
 
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 ?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[east span-100 text-center]
 ##  **Thanks to our Sponsors**
 @snapend
@@ -88,7 +88,7 @@ Note:
 Culture Amp, providers of Company Culture Analytics
 
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 ?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 
 @snap[east span-100 text-center]
@@ -105,7 +105,7 @@ Note:
 Twilio provide the building blocks to add messaging, voice, and video to your web and mobile applications.
 
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 ?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 @snap[east span-100 text-center]
 ##  **Community Sponsor**
@@ -120,7 +120,7 @@ Twilio provide the building blocks to add messaging, voice, and video to your we
 Note:
 Up is a digital bank designed to help you organise your money and simplify your life
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 ?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 
 
@@ -134,7 +134,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 ?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[north-west span-100]
 ![IMAGE](https://avatars3.githubusercontent.com/u/486803?s=460&u=fa78acd59228fffb2a2d70c79770ea806cbcb9a6&v=4)
 @snapend
@@ -147,9 +147,8 @@ Up is a digital bank designed to help you organise your money and simplify your 
 **@hhemanth**
 @snapend
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
----
 
 
 @snap[west span-55]
@@ -165,33 +164,33 @@ Up is a digital bank designed to help you organise your money and simplify your 
 @snapend
 
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  **Who's New?**
 ### **_Say Hello! in the Chat**
 
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  **Next Meetup's Exercism**
 ####  **Binary Search Tree**
 #####  **_`exercism download --exercise=binary-search-tree --track=ruby`**
 
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  **Thank you!**
 
 
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  SPEAKERS
 #### We are always on the lookout
 
 
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[west span-50 text-center]
 # **Where do I sign up?**
 @snapend
@@ -209,11 +208,11 @@ Up is a digital bank designed to help you organise your money and simplify your 
 @snapend
 
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  **NEWS**
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 
 ## **“JokeBox” — a Ruby CLI App
@@ -235,7 +234,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 Note:
 Hi everyone! Rails 5.2.4.3 and 6.0.3.1 have been released! These releases contain important security fixes, so please upgrade when you can.
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  **TIPS and TRICKS**
 #####  _Stuff that makes your life_
@@ -248,7 +247,7 @@ Hi everyone! Rails 5.2.4.3 and 6.0.3.1 have been released! These releases contai
 Note:
 [Anything speakers want to add...?]
 
----
+---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  **JOBS**
 ### **_Offering work?_**
