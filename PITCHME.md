@@ -157,7 +157,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 ### **_Say Hello! in the Chat**
 
 
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+---
 #### **Next Meetup's Exercism**
 #####  **Binary Search Tree**
 ######  **_`exercism download --exercise=binary-search-tree --track=ruby`**
@@ -245,8 +245,8 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
-#  **Slack/Forum**
-####- `ruby-au-join.herokuapp.com`
+##  Slack/Forum
+####  `ruby-au-join.herokuapp.com`
 #### **- `forum.ruby.org.au`**
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
