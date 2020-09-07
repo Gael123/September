@@ -59,7 +59,7 @@ That food budget is covered by Ruby Australia, and hence their sponsors are our 
 
 
 @snap[south span-100]
-##  Community Sponsor
+
 ![IMAGE](https://www.dropbox.com/s/rt37lwsic8rw6h2/envato-logo.png?dl=1)
 @snapend
 
@@ -71,9 +71,6 @@ Envato: Leading marketplace for creative assets and creative people. Using Ruby:
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
-@snap[east span-100 text-center]
-##  Thanks to our Sponsors
-@snapend
 
 @snap[south span-100]
 ![IMAGE](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
@@ -90,7 +87,6 @@ Culture Amp, providers of Company Culture Analytics
 
 
 @snap[south span-100]
-##  Community Sponsor
 ![IMAGE](https://www.dropbox.com/s/vybiy3ws0n44a5a/twilio-logo.png?dl=1)
 @snapend
 
@@ -103,7 +99,7 @@ Twilio provide the building blocks to add messaging, voice, and video to your we
 
 
 @snap[south span-100]
-##  Community Sponsor
+
 ![IMAGE](https://www.dropbox.com/s/231zrwix0mjhl1f/up-logo.gif?dl=1)
 @snapend
 
@@ -162,8 +158,8 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
-#####  **Next Meetup's Exercism**
-######  **Binary Search Tree**
+#### **Next Meetup's Exercism**
+#####  **Binary Search Tree**
 ######  **_`exercism download --exercise=binary-search-tree --track=ruby`**
 
 
@@ -250,8 +246,8 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 #  **Slack/Forum**
-## - `ruby-au-join.herokuapp.com`
-## **- `forum.ruby.org.au`**
+####- `ruby-au-join.herokuapp.com`
+#### **- `forum.ruby.org.au`**
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
