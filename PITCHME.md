@@ -200,10 +200,10 @@ Mike Rogers
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 
-#### **“JokeBox” — a Ruby CLI App
+<!-- #### **“JokeBox” — a Ruby CLI App
  - Creating a simple Command Line Interface CRUD application using Ruby and ActiveRecord.**
 
-https://github.com/haleighdalke/jokebox
+https://github.com/haleighdalke/jokebox -->
 
 
 
