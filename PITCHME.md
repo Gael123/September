@@ -16,7 +16,6 @@ Welcome to the ROROSyd September edition I hope everyone had a great holiday sea
 @snap[east span-55 text-center]
 @ul
   Talks
-  Events
   Tips / Jobs
   Virtual or Neighbourhood Pub / Gelato
 @ulend
