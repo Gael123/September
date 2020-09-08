@@ -28,10 +28,10 @@ Then it's off to the pub or gelato.
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
-#  Code Of Conduct
-##  **`ruby.org.au/code-of-conduct`**
-##  **`ruby.org.au/committee-members`**
-##  **`conduct@ruby.org.au`**
+##  Code Of Conduct
+######  **`ruby.org.au/code-of-conduct`**
+######  **`ruby.org.au/committee-members`**
+######  **`conduct@ruby.org.au`**
 
 Note:
 If this is your first RORO, or if you were previously unaware, Ruby Australia events are run under a code of conduct.<br />
@@ -45,8 +45,8 @@ If you have any issues you want to raise about anything that has happened at a R
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
-@snap[south span-100]
-## Community Sponsor
+@snap[center span-100]
+
 ![IMAGE](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
 @snapend
 
@@ -58,7 +58,7 @@ That food budget is covered by Ruby Australia, and hence their sponsors are our 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 
-@snap[south span-100]
+@snap[center span-100]
 
 ![IMAGE](https://www.dropbox.com/s/rt37lwsic8rw6h2/envato-logo.png?dl=1)
 @snapend
@@ -72,7 +72,7 @@ Envato: Leading marketplace for creative assets and creative people. Using Ruby:
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 
-@snap[south span-100]
+@snap[center span-100]
 ![IMAGE](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
 @snapend
 
@@ -86,7 +86,7 @@ Culture Amp, providers of Company Culture Analytics
 
 
 
-@snap[south span-100]
+@snap[center span-100]
 ![IMAGE](https://www.dropbox.com/s/vybiy3ws0n44a5a/twilio-logo.png?dl=1)
 @snapend
 
@@ -98,7 +98,7 @@ Twilio provide the building blocks to add messaging, voice, and video to your we
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 
-@snap[south span-100]
+@snap[center span-100]
 
 ![IMAGE](https://www.dropbox.com/s/231zrwix0mjhl1f/up-logo.gif?dl=1)
 @snapend
@@ -130,7 +130,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 @snap[north-east span-50 text-center]
 
-**Time Travel with Git**
+###### Time Travel with Git
 
 **@hhemanth**
 @snapend
@@ -148,19 +148,19 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 ###### **Exercism Challenge**: Kindergarten Garden
 
-  @matpushbuttons
+  **@matpushbuttons**
 @snapend
 
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 #  **Who's New?**
-### **_Say Hello! in the Chat**
+### **Say Hello! in the Chat**
 
 
 ---
-#### **Next Meetup's Exercism**
-#####  **Binary Search Tree**
-######  **_`exercism download --exercise=binary-search-tree --track=ruby`**
+### Next Meetup's Exercism**
+#####  Binary Search Tree
+######  `exercism download --exercise=binary-search-tree --track=ruby`
 
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
@@ -177,20 +177,20 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
-@snap[west span-50 text-center]
-# **Where do I sign up?**
+@snap[west span-45 text-center]
+### **Where do I sign up?**
 @snapend
 
 
 @snap[east span-45 text-center]
-@ul
-- ** `github.com/rails-oceania/roro/issues`**
-- _`@matpushbuttons`_
-- _`@geerop254`_
-- _`@hhemanth`_
 
-- **:email: `rorosydmeetup@gmail.com`**
-@ulend
+######  github.com/rails-oceania/roro/issues
+###### @matpushbuttons
+######  @geerop254
+######  @hhemanth
+
+######**:email: rorosydmeetup@gmail.com
+
 @snapend
 
 
@@ -204,7 +204,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 #### **“JokeBox” — a Ruby CLI App
  - Creating a simple Command Line Interface CRUD application using Ruby and ActiveRecord.**
 
--https://github.com/haleighdalke/jokebox
+https://github.com/haleighdalke/jokebox
 
 
 
@@ -214,8 +214,6 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 
 
-Note:
-Hi everyone! Rails 5.2.4.3 and 6.0.3.1 have been released! These releases contain important security fixes, so please upgrade when you can.
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
