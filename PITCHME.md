@@ -153,7 +153,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
-#  **Who's New?**
+###  **Who's New?**
 ### **Say Hello! in the Chat**
 
 
