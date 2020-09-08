@@ -1,8 +1,8 @@
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 # Ruby on Rails
-##  **_Oceania_**
-# 8 September 2020
+###  **_Oceania_**
+#### 8 Sept 2020
 
 Note:
 Welcome to the ROROSyd September edition I hope everyone had a great holiday season and is ready for another year of exploring all that Ruby and the greater world of software has to offer.
