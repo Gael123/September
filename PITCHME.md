@@ -140,15 +140,15 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 
 @snap[west span-55]
-![IMAGE](https://avatars0.githubusercontent.com/u/1100707?s=400&v=4)
+![IMAGE](https://files.slack.com/files-pri/T039RN1PH-F01A1SN2K2A/epndhoqd_400x400.jpg)
 @snapend
 
 
 @snap[north-east span-45 text-center]
 
 ###### **Exercism Challenge**: Kindergarten Garden
-
-  **@matpushbuttons**
+Mike Rogers
+  **@mikerogers0**
 @snapend
 
 
