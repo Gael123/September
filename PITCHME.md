@@ -178,7 +178,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[west span-45 text-center]
-# **Where do I sign up?**
+### **Where do I sign up?**
 @snapend
 
 
