@@ -158,9 +158,9 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 
 ---
-### Next Meetup's Exercism**
+###  **`Next Meetup's Exercism`**
 #####  Binary Search Tree
-######  `exercism download --exercise=binary-search-tree --track=ruby`
+######  **`exercism download --exercise=binary-search-tree --track=ruby`**
 
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
@@ -178,7 +178,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 @snap[west span-45 text-center]
-### **Where do I sign up?**
+# **Where do I sign up?**
 @snapend
 
 
@@ -189,7 +189,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 ######  @geerop254
 ######  @hhemanth
 
-######**:email: rorosydmeetup@gmail.com
+###### :email: rorosydmeetup@gmail.com
 
 @snapend
 
