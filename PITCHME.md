@@ -29,9 +29,9 @@ Then it's off to the pub or gelato.
 ---?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
 
 ##  Code Of Conduct
-######  **`ruby.org.au/code-of-conduct`**
-######  **`ruby.org.au/committee-members`**
-######  **`conduct@ruby.org.au`**
+######  `ruby.org.au/code-of-conduct`
+######  `ruby.org.au/committee-members`
+######  `conduct@ruby.org.au`
 
 Note:
 If this is your first RORO, or if you were previously unaware, Ruby Australia events are run under a code of conduct.<br />
@@ -55,7 +55,7 @@ Note:
 Ruby Australia, who organise sponsorship of all Ruby-related meet-ups around Australia make the delicious non-pizza dinner possible.<br />
 That food budget is covered by Ruby Australia, and hence their sponsors are our sponsors, so we would like to thank...
 
----?color=linear-gradient(-15deg, #853b6e 20%, #002b36 60%)
+---
 
 
 @snap[center span-100]
