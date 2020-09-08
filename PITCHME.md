@@ -140,7 +140,7 @@ Up is a digital bank designed to help you organise your money and simplify your 
 
 
 @snap[west span-55]
-![IMAGE](https://files.slack.com/files-pri/T039RN1PH-F01A1SN2K2A/epndhoqd_400x400.jpg)
+![IMAGE](https://pbs.twimg.com/profile_images/866343799437393920/ePNdhOQD_400x400.jpg)
 @snapend
 
 
